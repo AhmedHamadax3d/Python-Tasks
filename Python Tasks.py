@@ -148,5 +148,4 @@ if 2 or 4 and 6 in L :
     print('There exist')
 else :
     print('no exist')
-
-    
+#End .......................................................
